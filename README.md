@@ -15,4 +15,4 @@ A set of data for the  microgrid of Terre Sainte campus (01-07-2022 00:00:01 to 
 |Forecast|ECMWF|NWP forecast|01-07-2022 00:00:01 to 22-11-2024 00:00:00| |
 |Forecast|Fraunhofer ISE|Satellite forecast|01-07-2022 00:00:01 to 22-11-2024 00:00:00| |
 |Forecast|Reuniwatt|All sky imager forecast|01-07-2022 00:00:01 to 22-11-2024 00:00:00| |
-|Forecast|Reuniwatt|Persistance forecast|01-07-2022 00:00:01 to 22-11-2024 00:00:00| |
+|Forecast|University of La Reunion|Persistance forecast|01-07-2022 00:00:01 to 22-11-2024 00:00:00| |
