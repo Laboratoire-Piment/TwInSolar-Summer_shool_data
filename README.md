@@ -9,11 +9,11 @@ A set of data for the  microgrid of Terre Sainte campus (01-07-2022 00:00:01 to 
 
 |Type|Provider|Short description|Period|File name|
 |----|--------|-----------------|:----:|---------|
-|Observations|University of La Reunion|1-min solar irradiance measurements and corresponding clear sky|01-07-2022 00:00:01 to 31-12-2024 00:00:00|Observations/IRRAD_1min.txt|
-|Observations|University of La Reunion|15-min solar irradiance measurements and corresponding clear sky|01-07-2022 00:00:01 to 31-12-2024 00:00:00|Observations/IRRAD_15min.txt|
-|Observations|University of La Reunion|30-min solar irradiance measurements and corresponding clear sky|01-07-2022 00:00:01 to 31-12-2024 00:00:00|Observations/IRRAD_30min.txt|
-|Observations|University of La Reunion|1-hour solar irradiance measurements and corresponding clear sky|01-07-2022 00:00:01 to 31-12-2024 00:00:00|Observations/IRRAD_1h.txt|
-|Forecast|ECMWF|NWP forecast|01-07-2022 00:00:01 to 22-11-2024 00:00:00| |
-|Forecast|Fraunhofer ISE|Satellite forecast|01-07-2022 00:00:01 to 22-11-2024 00:00:00|20220701_20230101_sat_irrad_forecasts.nc|
-|Forecast|Reuniwatt|All sky imager forecast|01-07-2022 00:00:01 to 22-11-2024 00:00:00| |
-|Forecast|University of La Reunion|Persistance forecast|01-07-2022 00:00:01 to 22-11-2024 00:00:00| |
+|Observations|University of La Reunion|1-min solar irradiance measurements and corresponding clear sky|01-07-2022 00:00:01 to 01-01-2023 00:00:00|Observations/IRRAD_1min.txt|
+|Observations|University of La Reunion|15-min solar irradiance measurements and corresponding clear sky|01-07-2022 00:00:01 to 01-01-2023 00:00:00|Observations/IRRAD_15min.txt|
+|Observations|University of La Reunion|30-min solar irradiance measurements and corresponding clear sky|01-07-2022 00:00:01 to 01-01-2023 00:00:00|Observations/IRRAD_30min.txt|
+|Observations|University of La Reunion|1-hour solar irradiance measurements and corresponding clear sky|01-07-2022 00:00:01 to 01-01-2023 00:00:00|Observations/IRRAD_1h.txt|
+|Forecast|ECMWF|NWP forecast (1 file per day)|01-07-2022 00:00:01 to 22-11-2024 00:00:00| |
+|Forecast|Fraunhofer ISE|Satellite forecast|01-07-2022 00:00:01 to 01-01-2023 00:00:00|20220701_20230101_sat_irrad_forecasts.nc|
+|Forecast|University of La Reunion|All sky imager forecast (1 file per day)|01-07-2022 00:00:01 to 22-11-2022 00:00:00|ASI/dayofyear_ASI_irradiance_forecasts.nc|
+|Forecast|University of La Reunion and Fraunhofer ISE|Aligned persistence, satellite and NWP forecasts|01-07-2022 00:00:01 to 16-08-2022 00:00:00|sat_nwp_pers_aligned_temp.nc|
