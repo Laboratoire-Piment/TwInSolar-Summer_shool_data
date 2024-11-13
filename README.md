@@ -1,7 +1,7 @@
 <a href='https://twinsolar.eu/'><p align="center"><img src="https://twinsolar.eu/wp-content/uploads/2023/03/logo_twinsolar_seul.png" width="200"></p></a>
 <p align="center"><img src="https://twinsolar.eu/wp-content/uploads/2023/03/EN_FundedbytheEU_RGB_POS.png" width="200"></p>
 
-# TwInSolar consolidated data
+# Data prepared for the TwInSolar summer school on PV performance assessment and solar forecasting (18-22 November 2024)
 
 <a href='https://twinsolar.eu/'>https://twinsolar.eu/</a>
 
