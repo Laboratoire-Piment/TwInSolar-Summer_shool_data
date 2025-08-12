@@ -3,7 +3,7 @@
 
 # Data prepared for the TwInSolar summer school on PV performance assessment and solar forecasting (18-22 November 2024)
 
-The presentations, exercices and Jupoyter Notebooks prepared for the summer school are freely accessible in the following Google Drive repository: <a href='[https://twinsolar.eu/](https://drive.google.com/drive/folders/1zsrVPdHo_bujXX9OJfDZJQwq8fJk8sUJ?usp=share_link)'>TwInSolar Summer School # 2</a>
+The presentations, exercices and Jupoyter Notebooks prepared for the summer school are freely accessible in the following Google Drive repository: <a href='https://drive.google.com/drive/folders/1zsrVPdHo_bujXX9OJfDZJQwq8fJk8sUJ?usp=share_link'>TwInSolar Summer School # 2 </a>
 
 <a href='https://twinsolar.eu/'>https://twinsolar.eu/</a>
 
