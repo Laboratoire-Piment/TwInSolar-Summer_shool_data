@@ -3,6 +3,8 @@
 
 # Data prepared for the TwInSolar summer school on PV performance assessment and solar forecasting (18-22 November 2024)
 
+The presentations, exercices and Jupoyter Notebooks prepared for the summer school are freely accessible in the following Google Drive repository: <a href='[https://twinsolar.eu/](https://drive.google.com/drive/folders/1zsrVPdHo_bujXX9OJfDZJQwq8fJk8sUJ?usp=share_link)'>TwInSolar Summer School # 2</a>
+
 <a href='https://twinsolar.eu/'>https://twinsolar.eu/</a>
 
 A set of data for the  microgrid of Terre Sainte campus (01-07-2022 00:00:01 to 22-11-2022 00:00:00) prepared with the project TwInSolar. Geographical coordinate of the campus: 21°20'S, 55°29'E, 75m, GMT/UTC+4h
