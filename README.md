@@ -3,6 +3,12 @@
 
 # Data prepared for the TwInSolar summer school on PV performance assessment and solar forecasting (18-22 November 2024)
 
+Authors: David, M.<sup>1</sup>, Grimes, W.<sup>2</sup>, Straub, N.<sup>2</sup>, Trovalet, L.<sup>1</sup>, N., Voivret, C.<sup>1</sup>
+
+<sup>1</sup> University of La Réunion - PIMENT laboratory, 15, avenue René Cassin, 97715 Saint-Denis, France
+
+<sup>2</sup> Fraunhofer Institute for Solar Energy Systems ISE, Heidenhofstr. 2, 79110 Freiburg, Germany
+
 The presentations, exercices and Jupoyter Notebooks prepared for the summer school are freely accessible in the following Google Drive repository: <a href='https://drive.google.com/drive/folders/1zsrVPdHo_bujXX9OJfDZJQwq8fJk8sUJ?usp=share_link'>TwInSolar Summer School # 2 </a>
 
 <a href='https://twinsolar.eu/'>https://twinsolar.eu/</a>
@@ -11,7 +17,7 @@ A set of data for the  microgrid of Terre Sainte campus (01-07-2022 00:00:01 to 
 
 |Type|Provider|Short description|Period|File name|
 |----|--------|-----------------|:----:|---------|
-|GHI forecast| |All sky imager GHI forecast (1 file per day) with a 1-min time resolution|01-07-2022 00:00:00 to 22-11-2022 00:00:00|ASI/dayofyear_ASI_irradiance_forecasts.nc|
+|GHI forecast|University of La Reunion|All sky imager GHI forecast (1 file per day) with a 1-min time resolution|01-07-2022 00:00:00 to 22-11-2022 00:00:00|ASI/dayofyear_ASI_irradiance_forecasts.nc|
 |GHI forecast|ECMWF|NWP GHI forecasts at time 00h and 12h (2 files per day) with a 1-hour time resolution|01-01-2022 00:00:00 to 31-12-2024 00:00:00|NWP/date_time_nwp.nc|
 |Observations|University of La Reunion|1-min, 15-min, 30-min and 1-h solar irradiance measurements and corresponding clear sky|01-07-2022 00:00:00 to 01-01-2023 00:00:00|Observations/IRRAD_timestep.txt|
 |GHI forecast|University of La Reunion|4 days of NWP, satellite and persistence hourly GHI forecasts|15-10-2022 01:00:00 to 19-01-2022 00:00:00|4_days_GHI_forecasts.csv|
